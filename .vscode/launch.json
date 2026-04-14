@@ -1,0 +1,59 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "nutricare (mobile)",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Start AI Server",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/ai_server/server.js",
+            "cwd": "${workspaceFolder}/ai_server"
+        },
+        {
+            "name": "Debug Firebase Functions",
+            "type": "node",
+            "request": "attach",
+            "port": 9229,
+            "restart": true
+        },
+        {
+            "name": "nutricare (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "nutricare (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "nutricare (web)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "-d",
+                "chrome",
+                "--web-port",
+                "8080",
+                "--web-renderer",
+                "html"
+            ]
+        }
+    ]
+}

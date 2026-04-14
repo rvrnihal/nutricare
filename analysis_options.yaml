@@ -1,0 +1,13 @@
+
+analyzer:
+  errors:
+    unused_local_variable: ignore
+    body_might_complete_normally_nullable: ignore
+    unused_field: ignore
+  exclude:
+    - build/**
+linter:
+  rules:
+    avoid_print: false
+    prefer_const_constructors: false
+    use_key_in_widget_constructors: false

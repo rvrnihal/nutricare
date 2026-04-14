@@ -1,0 +1,19 @@
+{
+  "name": "nutricare-ai-proxy",
+  "version": "1.0.0",
+  "description": "Backend proxy server for NutriCare+ Gemini AI",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "NutriCare+ Team",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.22.1",
+    "node-fetch": "^3.3.2"
+  }
+}

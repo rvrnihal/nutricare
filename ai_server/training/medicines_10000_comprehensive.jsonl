@@ -1,0 +1,155 @@
+{"id": 1, "name": "Paracetamol 500mg", "category": "Analgesic/Antipyretic", "system": "Allopathic", "uses": "Fever, pain", "dosage": "500mg 3-4 times daily", "rating": 4.8}
+{"id": 2, "name": "Ibuprofen 200mg", "category": "NSAID", "system": "Allopathic", "uses": "Pain, inflammation", "dosage": "200-400mg 3-4 times daily", "rating": 4.7}
+{"id": 3, "name": "Diclofenac 50mg", "category": "NSAID", "system": "Allopathic", "uses": "Pain, arthritis", "dosage": "50mg twice daily", "rating": 4.6}
+{"id": 4, "name": "Aspirin 325mg", "category": "Analgesic", "system": "Allopathic", "uses": "Pain, fever, cardiovascular", "dosage": "325-650mg every 4-6 hours", "rating": 4.5}
+{"id": 5, "name": "Metformin 500mg", "category": "Antidiabetic", "system": "Allopathic", "uses": "Type 2 diabetes", "dosage": "500mg 2-3 times daily", "rating": 4.9}
+{"id": 6, "name": "Glibenclamide 5mg", "category": "Antidiabetic", "system": "Allopathic", "uses": "Type 2 diabetes", "dosage": "2.5-5mg daily", "rating": 4.4}
+{"id": 7, "name": "Lisinopril 10mg", "category": "ACE Inhibitor", "system": "Allopathic", "uses": "Hypertension, heart failure", "dosage": "10-40mg daily", "rating": 4.7}
+{"id": 8, "name": "Amlodipine 5mg", "category": "Calcium Channel Blocker", "system": "Allopathic", "uses": "Hypertension, angina", "dosage": "5-10mg daily", "rating": 4.8}
+{"id": 9, "name": "Atorvastatin 20mg", "category": "Statin", "system": "Allopathic", "uses": "High cholesterol", "dosage": "20-80mg daily", "rating": 4.8}
+{"id": 10, "name": "Omeprazole 20mg", "category": "PPI", "system": "Allopathic", "uses": "GERD, peptic ulcer", "dosage": "20-40mg daily", "rating": 4.7}
+{"id": 11, "name": "Amoxicillin 250mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Bacterial infections", "dosage": "250-500mg 3 times daily", "rating": 4.6}
+{"id": 12, "name": "Azithromycin 500mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Bacterial, atypical infections", "dosage": "500mg day 1, then 250mg daily", "rating": 4.7}
+{"id": 13, "name": "Cetirizine 10mg", "category": "Antihistamine", "system": "Allopathic", "uses": "Allergies, urticaria", "dosage": "10mg daily", "rating": 4.6}
+{"id": 14, "name": "Loratadine 10mg", "category": "Antihistamine", "system": "Allopathic", "uses": "Allergies", "dosage": "10mg daily", "rating": 4.5}
+{"id": 15, "name": "Fexofenadine 180mg", "category": "Antihistamine", "system": "Allopathic", "uses": "Allergies", "dosage": "180mg once daily", "rating": 4.6}
+{"id": 16, "name": "Salbutamol Inhaler", "category": "Bronchodilator", "system": "Allopathic", "uses": "Asthma, COPD", "dosage": "1-2 inhalations every 4-6 hours", "rating": 4.8}
+{"id": 17, "name": "Fluticasone Inhaler", "category": "Corticosteroid", "system": "Allopathic", "uses": "Asthma control", "dosage": "110-220mcg twice daily", "rating": 4.7}
+{"id": 18, "name": "Montelukast 10mg", "category": "Leukotriene Antagonist", "system": "Allopathic", "uses": "Asthma", "dosage": "10mg daily", "rating": 4.5}
+{"id": 19, "name": "Warfarin 2.5mg", "category": "Anticoagulant", "system": "Allopathic", "uses": "Blood clots, DVT/PE", "dosage": "Individualized (INR based)", "rating": 4.6}
+{"id": 20, "name": "Aspirin 81mg (Baby Aspirin)", "category": "Antiplatelet", "system": "Allopathic", "uses": "Cardiovascular disease prevention", "dosage": "81mg daily", "rating": 4.9}
+{"id": 21, "name": "Tramadol 50mg", "category": "Opioid", "system": "Allopathic", "uses": "Moderate pain", "dosage": "50-100mg every 4-6 hours", "rating": 4.3}
+{"id": 22, "name": "Codeine 15mg", "category": "Opioid", "system": "Allopathic", "uses": "Cough, mild pain", "dosage": "15-30mg every 4-6 hours", "rating": 4.2}
+{"id": 23, "name": "Propranolol 40mg", "category": "Beta Blocker", "system": "Allopathic", "uses": "Hypertension, migraine, anxiety", "dosage": "40-240mg daily", "rating": 4.6}
+{"id": 24, "name": "Atenolol 50mg", "category": "Beta Blocker", "system": "Allopathic", "uses": "Hypertension, angina", "dosage": "50-100mg daily", "rating": 4.5}
+{"id": 25, "name": "Metoprolol 50mg", "category": "Beta Blocker", "system": "Allopathic", "uses": "Hypertension, heart disease", "dosage": "50-190mg daily", "rating": 4.6}
+{"id": 26, "name": "Diltiazem 30mg", "category": "Calcium Channel Blocker", "system": "Allopathic", "uses": "Hypertension, angina", "dosage": "30-90mg daily", "rating": 4.5}
+{"id": 27, "name": "Verapamil 80mg", "category": "Calcium Channel Blocker", "system": "Allopathic", "uses": "Hypertension, arrhythmias", "dosage": "80-120mg daily", "rating": 4.4}
+{"id": 28, "name": "Losartan 50mg", "category": "ARB", "system": "Allopathic", "uses": "Hypertension", "dosage": "50-100mg daily", "rating": 4.7}
+{"id": 29, "name": "Valsartan 80mg", "category": "ARB", "system": "Allopathic", "uses": "Hypertension, heart failure", "dosage": "80-160mg daily", "rating": 4.6}
+{"id": 30, "name": "Enalapril 10mg", "category": "ACE Inhibitor", "system": "Allopathic", "uses": "Hypertension, heart failure", "dosage": "10-20mg daily", "rating": 4.6}
+{"id": 31, "name": "Ramipril 2.5mg", "category": "ACE Inhibitor", "system": "Allopathic", "uses": "Hypertension", "dosage": "2.5-10mg daily", "rating": 4.7}
+{"id": 32, "name": "Simvastatin 20mg", "category": "Statin", "system": "Allopathic", "uses": "High cholesterol", "dosage": "20-40mg daily", "rating": 4.6}
+{"id": 33, "name": "Pravastatin 20mg", "category": "Statin", "system": "Allopathic", "uses": "High cholesterol", "dosage": "10-40mg daily", "rating": 4.5}
+{"id": 34, "name": "Rosuvastatin 5mg", "category": "Statin", "system": "Allopathic", "uses": "High cholesterol", "dosage": "5-40mg daily", "rating": 4.7}
+{"id": 35, "name": "Lovastatin 20mg", "category": "Statin", "system": "Allopathic", "uses": "High cholesterol", "dosage": "10-40mg daily", "rating": 4.4}
+{"id": 36, "name": "Cephalexin 250mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Bacterial infections", "dosage": "250-500mg 4 times daily", "rating": 4.7}
+{"id": 37, "name": "Ceftriaxone 1g", "category": "Antibiotic", "system": "Allopathic", "uses": "Serious bacterial infections", "dosage": "1-2g daily", "rating": 4.7}
+{"id": 38, "name": "Ciprofloxacin 500mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Bacterial infections", "dosage": "500-750mg twice daily", "rating": 4.6}
+{"id": 39, "name": "Levofloxacin 500mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Respiratory, UTI", "dosage": "500mg daily or 750mg daily", "rating": 4.6}
+{"id": 40, "name": "Metronidazole 400mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Anaerobic infections, giardia", "dosage": "400-500mg 2-3 times daily", "rating": 4.5}
+{"id": 41, "name": "Nitrofurantoin 50mg", "category": "Antibiotic", "system": "Allopathic", "uses": "UTI", "dosage": "50-100mg twice daily", "rating": 4.6}
+{"id": 42, "name": "Doxycycline 100mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Respiratory, acne, Lyme disease", "dosage": "100mg once or twice daily", "rating": 4.7}
+{"id": 43, "name": "Tetracycline 250mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Respiratory infections, acne", "dosage": "250-500mg 4 times daily", "rating": 4.4}
+{"id": 44, "name": "Trimethoprim-Sulfa 480mg", "category": "Antibiotic", "system": "Allopathic", "uses": "UTI, PCP prophylaxis", "dosage": "1-2 tablets twice daily", "rating": 4.5}
+{"id": 45, "name": "Vancomycin 125mg", "category": "Antibiotic", "system": "Allopathic", "uses": "MRSA, C. difficile", "dosage": "15-20mg/kg every 8-12 hours", "rating": 4.6}
+{"id": 46, "name": "Clindamycin 150mg", "category": "Antibiotic", "system": "Allopathic", "uses": "Anaerobic infections, acne", "dosage": "150-300mg 4 times daily", "rating": 4.5}
+{"id": 47, "name": "Gentamicin Injection", "category": "Antibiotic", "system": "Allopathic", "uses": "Serious gram-negative infections", "dosage": "3-5mg/kg daily", "rating": 4.4}
+{"id": 48, "name": "Ranitidine 150mg", "category": "H2 Blocker", "system": "Allopathic", "uses": "GERD, peptic ulcer", "dosage": "150mg twice daily", "rating": 4.5}
+{"id": 49, "name": "Famotidine 20mg", "category": "H2 Blocker", "system": "Allopathic", "uses": "GERD, heartburn", "dosage": "20-40mg once or twice daily", "rating": 4.6}
+{"id": 50, "name": "Cimetidine 400mg", "category": "H2 Blocker", "system": "Allopathic", "uses": "GERD, peptic ulcer", "dosage": "400-800mg twice daily", "rating": 4.3}
+{"id": 51, "name": "Pantoprazole 40mg", "category": "PPI", "system": "Allopathic", "uses": "GERD, peptic ulcer", "dosage": "40mg daily", "rating": 4.8}
+{"id": 52, "name": "Lansoprazole 15mg", "category": "PPI", "system": "Allopathic", "uses": "GERD", "dosage": "15-30mg daily", "rating": 4.7}
+{"id": 53, "name": "Rabeprazole 20mg", "category": "PPI", "system": "Allopathic", "uses": "GERD", "dosage": "20mg daily", "rating": 4.6}
+{"id": 54, "name": "Sucralfate 1g", "category": "Gastric Protective", "system": "Allopathic", "uses": "Peptic ulcer, GERD", "dosage": "1g 4 times daily", "rating": 4.4}
+{"id": 55, "name": "Metoclopramide 10mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Nausea, vomiting, GERD", "dosage": "10mg 3-4 times daily", "rating": 4.5}
+{"id": 56, "name": "Ondansetron 4mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Nausea, vomiting, chemotherapy", "dosage": "4-8mg every 8 hours", "rating": 4.8}
+{"id": 57, "name": "Granisetron 1mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Nausea, vomiting", "dosage": "1-2mg once daily", "rating": 4.7}
+{"id": 58, "name": "Prochlorperazine 5mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Nausea, vomiting", "dosage": "5-10mg 3-4 times daily", "rating": 4.3}
+{"id": 59, "name": "Dimenhydrinate 50mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Motion sickness, nausea", "dosage": "50-100mg every 4-6 hours", "rating": 4.4}
+{"id": 60, "name": "Meclizine 25mg", "category": "Antiemetic", "system": "Allopathic", "uses": "Motion sickness, vertigo", "dosage": "25-50mg 3 times daily", "rating": 4.5}
+{"id": 61, "name": "Loperamide 2mg", "category": "Antidiarrheal", "system": "Allopathic", "uses": "Diarrhea", "dosage": "2mg after each loose stool", "rating": 4.6}
+{"id": 62, "name": "Bismuth Subsalicylate 262mg", "category": "Antidiarrheal", "system": "Allopathic", "uses": "Diarrhea, traveler's diarrhea", "dosage": "262-524mg every 30 minutes", "rating": 4.5}
+{"id": 63, "name": "Docusate 100mg", "category": "Laxative", "system": "Allopathic", "uses": "Constipation", "dosage": "100-300mg daily", "rating": 4.4}
+{"id": 64, "name": "Senna Tablet", "category": "Laxative", "system": "Allopathic", "uses": "Constipation", "dosage": "1-2 tablets daily", "rating": 4.5}
+{"id": 65, "name": "Bisacodyl 5mg", "category": "Laxative", "system": "Allopathic", "uses": "Constipation", "dosage": "5-15mg daily", "rating": 4.6}
+{"id": 66, "name": "Magnesium Citrate", "category": "Laxative", "system": "Allopathic", "uses": "Constipation, bowel prep", "dosage": "150-300ml", "rating": 4.5}
+{"id": 67, "name": "Polyethylene Glycol 3350", "category": "Laxative", "system": "Allopathic", "uses": "Constipation", "dosage": "17g in liquid daily", "rating": 4.7}
+{"id": 68, "name": "Lactulose 15ml", "category": "Laxative", "system": "Allopathic", "uses": "Constipation, hepatic encephalopathy", "dosage": "15-30ml once or twice daily", "rating": 4.6}
+{"id": 69, "name": "Topiramate 25mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Migraine, epilepsy", "dosage": "25-200mg daily", "rating": 4.5}
+{"id": 70, "name": "Gabapentin 300mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Neuropathy, migraine", "dosage": "300-900mg 3 times daily", "rating": 4.6}
+{"id": 71, "name": "Pregabalin 75mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Neuropathy, anxiety", "dosage": "150-450mg daily", "rating": 4.7}
+{"id": 72, "name": "Valproic Acid 250mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy, migraine, bipolar", "dosage": "250-500mg twice daily", "rating": 4.5}
+{"id": 73, "name": "Levetiracetam 500mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy", "dosage": "500-1500mg twice daily", "rating": 4.6}
+{"id": 74, "name": "Phenytoin 100mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy", "dosage": "100-300mg daily", "rating": 4.4}
+{"id": 75, "name": "Carbamazepine 200mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy, trigeminal neuralgia", "dosage": "200-400mg 2-4 times daily", "rating": 4.5}
+{"id": 76, "name": "Lamotrigine 25mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy, bipolar disorder", "dosage": "25-400mg daily", "rating": 4.6}
+{"id": 77, "name": "Oxcarbazepine 300mg", "category": "Anticonvulsant", "system": "Allopathic", "uses": "Epilepsy", "dosage": "600-2400mg daily", "rating": 4.5}
+{"id": 78, "name": "Sertraline 50mg", "category": "SSRI", "system": "Allopathic", "uses": "Depression, anxiety, OCD", "dosage": "50-200mg daily", "rating": 4.7}
+{"id": 79, "name": "Fluoxetine 20mg", "category": "SSRI", "system": "Allopathic", "uses": "Depression, anxiety, OCD, bulimia", "dosage": "20-80mg daily", "rating": 4.7}
+{"id": 80, "name": "Paroxetine 20mg", "category": "SSRI", "system": "Allopathic", "uses": "Depression, anxiety, panic", "dosage": "20-50mg daily", "rating": 4.5}
+{"id": 81, "name": "Citalopram 20mg", "category": "SSRI", "system": "Allopathic", "uses": "Depression, anxiety", "dosage": "20-40mg daily", "rating": 4.6}
+{"id": 82, "name": "Escitalopram 10mg", "category": "SSRI", "system": "Allopathic", "uses": "Depression, anxiety", "dosage": "10-20mg daily", "rating": 4.7}
+{"id": 83, "name": "Venlafaxine 75mg", "category": "SNRI", "system": "Allopathic", "uses": "Depression, anxiety, migraine", "dosage": "75-225mg daily", "rating": 4.6}
+{"id": 84, "name": "Duloxetine 30mg", "category": "SNRI", "system": "Allopathic", "uses": "Depression, anxiety, chronic pain", "dosage": "30-60mg daily", "rating": 4.7}
+{"id": 85, "name": "Desvenlafaxine 50mg", "category": "SNRI", "system": "Allopathic", "uses": "Depression", "dosage": "50-100mg daily", "rating": 4.6}
+{"id": 86, "name": "Amitriptyline 10mg", "category": "Tricyclic Antidepressant", "system": "Allopathic", "uses": "Depression, chronic pain, migraine", "dosage": "25-100mg at bedtime", "rating": 4.5}
+{"id": 87, "name": "Nortriptyline 25mg", "category": "Tricyclic Antidepressant", "system": "Allopathic", "uses": "Depression, chronic pain", "dosage": "25-75mg at bedtime", "rating": 4.5}
+{"id": 88, "name": "Doxepin 10mg", "category": "Tricyclic Antidepressant", "system": "Allopathic", "uses": "Depression, insomnia, anxiety", "dosage": "10-100mg at bedtime", "rating": 4.4}
+{"id": 89, "name": "Mirtazapine 15mg", "category": "Tetracyclic", "system": "Allopathic", "uses": "Depression, insomnia", "dosage": "15-45mg at bedtime", "rating": 4.6}
+{"id": 90, "name": "Bupropion 75mg", "category": "Atypical Antidepressant", "system": "Allopathic", "uses": "Depression, smoking cessation", "dosage": "150-450mg daily", "rating": 4.5}
+{"id": 91, "name": "Trazodone 25mg", "category": "SARI", "system": "Allopathic", "uses": "Depression, insomnia", "dosage": "50-400mg daily", "rating": 4.5}
+{"id": 92, "name": "Vilazodone 10mg", "category": "SARI", "system": "Allopathic", "uses": "Depression", "dosage": "10-40mg daily", "rating": 4.6}
+{"id": 93, "name": "Diazepam 5mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety, muscle relaxation", "dosage": "2-10mg 2-4 times daily", "rating": 4.4}
+{"id": 94, "name": "Alprazolam 0.5mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety, panic disorder", "dosage": "0.25-2mg 2-3 times daily", "rating": 4.5}
+{"id": 95, "name": "Lorazepam 1mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety, insomnia", "dosage": "0.5-4mg daily", "rating": 4.5}
+{"id": 96, "name": "Clonazepam 0.5mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety, seizures, panic", "dosage": "0.25-4mg daily", "rating": 4.6}
+{"id": 97, "name": "Oxazepam 10mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety", "dosage": "10-30mg 3-4 times daily", "rating": 4.3}
+{"id": 98, "name": "Chlordiazepoxide 10mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Anxiety, alcohol withdrawal", "dosage": "5-10mg 3-4 times daily", "rating": 4.4}
+{"id": 99, "name": "Temazepam 10mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Insomnia", "dosage": "7.5-30mg at bedtime", "rating": 4.5}
+{"id": 100, "name": "Triazolam 0.125mg", "category": "Benzodiazepine", "system": "Allopathic", "uses": "Insomnia", "dosage": "0.125-0.25mg at bedtime", "rating": 4.4}
+{"id": 101, "name": "Zolpidem 5mg", "category": "Z-Drug", "system": "Allopathic", "uses": "Insomnia", "dosage": "5-10mg at bedtime", "rating": 4.6}
+{"id": 102, "name": "Zaleplon 5mg", "category": "Z-Drug", "system": "Allopathic", "uses": "Insomnia", "dosage": "5-10mg at bedtime", "rating": 4.5}
+{"id": 103, "name": "Eszopiclone 1mg", "category": "Z-Drug", "system": "Allopathic", "uses": "Insomnia", "dosage": "1-3mg at bedtime", "rating": 4.6}
+{"id": 104, "name": "Buspirone 5mg", "category": "Anxiolytic", "system": "Allopathic", "uses": "Anxiety", "dosage": "5-20mg 2-3 times daily", "rating": 4.3}
+{"id": 105, "name": "Hydroxyzine 25mg", "category": "Antihistamine/Anxiolytic", "system": "Allopathic", "uses": "Anxiety, pruritus", "dosage": "10-25mg 3-4 times daily", "rating": 4.5}
+{"id": 106, "name": "Lithium Carbonate 300mg", "category": "Mood Stabilizer", "system": "Allopathic", "uses": "Bipolar disorder", "dosage": "900-1800mg daily", "rating": 4.4}
+{"id": 107, "name": "Lamotrigine 50mg", "category": "Mood Stabilizer", "system": "Allopathic", "uses": "Bipolar disorder", "dosage": "25-400mg daily", "rating": 4.5}
+{"id": 108, "name": "Valproate 250mg", "category": "Mood Stabilizer", "system": "Allopathic", "uses": "Bipolar disorder, epilepsy", "dosage": "250-500mg twice daily", "rating": 4.4}
+{"id": 109, "name": "Carbamazepine 100mg", "category": "Mood Stabilizer", "system": "Allopathic", "uses": "Bipolar disorder", "dosage": "200-400mg 2-4 times daily", "rating": 4.4}
+{"id": 110, "name": "Quetiapine 25mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Bipolar disorder, schizophrenia", "dosage": "150-300mg daily", "rating": 4.5}
+{"id": 111, "name": "Risperidone 0.25mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia, bipolar", "dosage": "1-6mg daily", "rating": 4.6}
+{"id": 112, "name": "Olanzapine 2.5mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia, bipolar", "dosage": "5-20mg daily", "rating": 4.5}
+{"id": 113, "name": "Aripiprazole 5mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia, bipolar", "dosage": "10-30mg daily", "rating": 4.6}
+{"id": 114, "name": "Clozapine 25mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Treatment-resistant schizophrenia", "dosage": "200-400mg daily", "rating": 4.4}
+{"id": 115, "name": "Haloperidol 0.5mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia, agitation", "dosage": "0.5-5mg 2-3 times daily", "rating": 4.2}
+{"id": 116, "name": "Chlorpromazine 25mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia, nausea", "dosage": "25-100mg 2-4 times daily", "rating": 4.2}
+{"id": 117, "name": "Asizine 10mg", "category": "Antipsychotic", "system": "Allopathic", "uses": "Schizophrenia", "dosage": "10-30mg daily", "rating": 4.3}
+{"id": 118, "name": "Prednisone 5mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation, autoimmune", "dosage": "5-60mg daily", "rating": 4.5}
+{"id": 119, "name": "Prednisolone 5mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation, autoimmune", "dosage": "5-60mg daily", "rating": 4.5}
+{"id": 120, "name": "Dexamethasone 0.5mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation, swelling", "dosage": "0.75-9mg daily", "rating": 4.6}
+{"id": 121, "name": "Methylprednisolone 4mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation, MS", "dosage": "4-48mg daily", "rating": 4.5}
+{"id": 122, "name": "Betamethasone 0.5mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation", "dosage": "0.6-7.2mg daily", "rating": 4.4}
+{"id": 123, "name": "Triamcinolone 4mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Inflammation, arthritis", "dosage": "4-48mg daily", "rating": 4.4}
+{"id": 124, "name": "Hydrocortisone 10mg", "category": "Corticosteroid", "system": "Allopathic", "uses": "Adrenal insufficiency", "dosage": "10-30mg daily", "rating": 4.5}
+{"id": 125, "name": "Azathioprine 50mg", "category": "Immunosuppressant", "system": "Allopathic", "uses": "Autoimmune diseases", "dosage": "50-100mg daily", "rating": 4.3}
+{"id": 126, "name": "Mycophenolate 500mg", "category": "Immunosuppressant", "system": "Allopathic", "uses": "Lupus, transplant", "dosage": "1-1.5g twice daily", "rating": 4.4}
+{"id": 127, "name": "Cyclosporine 25mg", "category": "Immunosuppressant", "system": "Allopathic", "uses": "Transplant, autoimmune", "dosage": "3-10mg/kg daily", "rating": 4.4}
+{"id": 128, "name": "Tacrolimus 1mg", "category": "Immunosuppressant", "system": "Allopathic", "uses": "Transplant rejection", "dosage": "0.03-0.1mg/kg daily", "rating": 4.3}
+{"id": 129, "name": "Infliximab 100mg", "category": "Biologic", "system": "Allopathic", "uses": "Rheumatoid arthritis, Crohn's", "dosage": "3-10mg/kg IV", "rating": 4.5}
+{"id": 130, "name": "Etanercept 25mg", "category": "Biologic", "system": "Allopathic", "uses": "Rheumatoid arthritis, psoriasis", "dosage": "25-50mg weekly", "rating": 4.6}
+{"id": 131, "name": "Adalimumab 40mg", "category": "Biologic", "system": "Allopathic", "uses": "Rheumatoid arthritis, Crohn's", "dosage": "40mg every 2 weeks", "rating": 4.6}
+{"id": 132, "name": "Rituximab 100mg", "category": "Biologic", "system": "Allopathic", "uses": "Rheumatoid arthritis, lymphoma", "dosage": "1g IV weekly", "rating": 4.5}
+{"id": 133, "name": "Tocilizumab 80mg", "category": "Biologic", "system": "Allopathic", "uses": "Rheumatoid arthritis, giant cell", "dosage": "4-8mg/kg IV", "rating": 4.6}
+{"id": 134, "name": "Fluticasone Propionate Cream", "category": "Topical Corticosteroid", "system": "Allopathic", "uses": "Dermatitis, eczema", "dosage": "Apply to skin 2 times daily", "rating": 4.6}
+{"id": 135, "name": "Triamcinolone Acetonide Cream", "category": "Topical Corticosteroid", "system": "Allopathic", "uses": "Eczema, dermatitis", "dosage": "Apply to skin 2-3 times daily", "rating": 4.5}
+{"id": 136, "name": "Hydrocortisone Cream 1%", "category": "Topical Corticosteroid", "system": "Allopathic", "uses": "Eczema, itching", "dosage": "Apply to skin 2-3 times daily", "rating": 4.5}
+{"id": 137, "name": "Clobetasol Propionate Cream", "category": "Topical Corticosteroid", "system": "Allopathic", "uses": "Severe dermatitis", "dosage": "Apply sparingly 2 times daily", "rating": 4.4}
+{"id": 138, "name": "Ketoconazole Cream 2%", "category": "Topical Antifungal", "system": "Allopathic", "uses": "Fungal infections", "dosage": "Apply to skin once or twice daily", "rating": 4.6}
+{"id": 139, "name": "Miconazole Cream 2%", "category": "Topical Antifungal", "system": "Allopathic", "uses": "Fungal infections, candida", "dosage": "Apply to skin 2-3 times daily", "rating": 4.5}
+{"id": 140, "name": "Lithium Cream", "category": "Topical", "system": "Allopathic", "uses": "Seborrheic dermatitis", "dosage": "Apply to scalp once daily", "rating": 4.3}
+{"id": 141, "name": "Salicylic Acid 2%", "category": "Keratolytic", "system": "Allopathic", "uses": "Acne, warts, scalp", "dosage": "Apply to affected area", "rating": 4.6}
+{"id": 142, "name": "Benzoyl Peroxide 2.5%", "category": "Acne Treatment", "system": "Allopathic", "uses": "Acne", "dosage": "Apply to face once daily", "rating": 4.7}
+{"id": 143, "name": "Adapalene 0.1%", "category": "Retinoid", "system": "Allopathic", "uses": "Acne", "dosage": "Apply to face once daily at night", "rating": 4.6}
+{"id": 144, "name": "Tretinoin 0.025%", "category": "Retinoid", "system": "Allopathic", "uses": "Acne, wrinkles", "dosage": "Apply to face at night", "rating": 4.6}
+{"id": 145, "name": "Clindamycin Lotion 1%", "category": "Topical Antibiotic", "system": "Allopathic", "uses": "Acne", "dosage": "Apply to face twice daily", "rating": 4.5}
+{"id": 146, "name": "Erythromycin Ointment", "category": "Topical Antibiotic", "system": "Allopathic", "uses": "Acne, eye infections", "dosage": "Apply to affected area", "rating": 4.4}
+{"id": 147, "name": "Latanoprost Eye Drops", "category": "Ophthalmic", "system": "Allopathic", "uses": "Glaucoma", "dosage": "1 drop evening once daily", "rating": 4.7}
+{"id": 148, "name": "Timolol Eye Drops", "category": "Ophthalmic", "system": "Allopathic", "uses": "Glaucoma", "dosage": "1 drop twice daily", "rating": 4.6}
+{"id": 149, "name": "Dorzolamide Eye Drops", "category": "Ophthalmic", "system": "Allopathic", "uses": "Glaucoma", "dosage": "1 drop 3 times daily", "rating": 4.5}
+{"id": 150, "name": "Pilocarpine Eye Drops", "category": "Ophthalmic", "system": "Allopathic", "uses": "Glaucoma, dry eye", "dosage": "1 drop 3-4 times daily", "rating": 4.4}
+{"id": 151, "name": "Ashwagandha 300mg", "category": "Adaptogen", "system": "Ayurvedic", "uses": "Stress, sleep, immunity", "dosage": "300-600mg daily", "rating": 4.8}
+{"id": 152, "name": "Brahmi 200mg", "category": "Brain Tonic", "system": "Ayurvedic", "uses": "Memory, focus, anxiety", "dosage": "200-400mg daily", "rating": 4.7}
+{"id": 153, "name": "Tulsi Extract", "category": "Immunity", "system": "Ayurvedic", "uses": "Cough, fever, immunity", "dosage": "1-2g fresh or dried", "rating": 4.8}
+{"id": 154, "name": "Neem Powder", "category": "Detoxifier", "system": "Ayurvedic", "uses": "Skin, blood purification", "dosage": "1-3g daily", "rating": 4.6}
+{"id": 155, "name": "Triphala Powder", "category": "Detoxifier", "system": "Ayurvedic", "uses": "Digestion, constipation", "dosage": "3-6g daily", "rating": 4.8}

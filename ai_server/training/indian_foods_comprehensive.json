@@ -1,0 +1,88 @@
+{"name": "Chicken Tikka Masala", "calories": 350, "protein": 28, "carbs": 8, "fat": 24, "fiber": 0, "sugar": 2, "sodium": 580, "region": "North India", "type": "curry"}
+{"name": "Butter Naan", "calories": 260, "protein": 8, "carbs": 40, "fat": 8, "fiber": 1, "sugar": 1, "sodium": 540, "region": "North India", "type": "bread"}
+{"name": "Dal Makhani", "calories": 280, "protein": 16, "carbs": 24, "fat": 14, "fiber": 8, "sugar": 2, "sodium": 480, "region": "North India", "type": "legumes"}
+{"name": "Biryani - Chicken", "calories": 380, "protein": 22, "carbs": 45, "fat": 12, "fiber": 1, "sugar": 1, "sodium": 620, "region": "South India", "type": "rice"}
+{"name": "Samosa with Potato", "calories": 180, "protein": 3, "carbs": 20, "fat": 10, "fiber": 1, "sugar": 1, "sodium": 340, "region": "North India", "type": "snack"}
+{"name": "Tandoori Chicken", "calories": 192, "protein": 25, "carbs": 0, "fat": 9.5, "fiber": 0, "sugar": 0, "sodium": 450, "region": "North India", "type": "meat"}
+{"name": "Paneer Tikka", "calories": 220, "protein": 18, "carbs": 4, "fat": 16, "fiber": 0, "sugar": 1, "sodium": 420, "region": "North India", "type": "cheese"}
+{"name": "Chana Masala", "calories": 240, "protein": 14, "carbs": 28, "fat": 8, "fiber": 7, "sugar": 3, "sodium": 520, "region": "North India", "type": "legumes"}
+{"name": "Rogan Josh - Lamb", "calories": 320, "protein": 32, "carbs": 6, "fat": 18, "fiber": 0, "sugar": 2, "sodium": 600, "region": "North India", "type": "meat"}
+{"name": "Aloo Gobi", "calories": 140, "protein": 4, "carbs": 18, "fat": 6, "fiber": 3, "sugar": 2, "sodium": 360, "region": "North India", "type": "vegetables"}
+{"name": "Paratha - Plain", "calories": 210, "protein": 6, "carbs": 28, "fat": 9, "fiber": 1, "sugar": 0, "sodium": 380, "region": "North India", "type": "bread"}
+{"name": "Dosa - Plain", "calories": 200, "protein": 5, "carbs": 35, "fat": 4, "fiber": 2, "sugar": 1, "sodium": 320, "region": "South India", "type": "breakfast"}
+{"name": "Idli", "calories": 70, "protein": 2, "carbs": 14, "fat": 0.5, "fiber": 1, "sugar": 0, "sodium": 140, "region": "South India", "type": "breakfast"}
+{"name": "Upma", "calories": 220, "protein": 8, "carbs": 28, "fat": 9, "fiber": 2, "sugar": 1, "sodium": 480, "region": "South India", "type": "breakfast"}
+{"name": "Rajma", "calories": 210, "protein": 14, "carbs": 32, "fat": 2, "fiber": 9, "sugar": 2, "sodium": 380, "region": "North India", "type": "legumes"}
+{"name": "Sambar", "calories": 120, "protein": 6, "carbs": 18, "fat": 2, "fiber": 4, "sugar": 3, "sodium": 520, "region": "South India", "type": "vegetable-stew"}
+{"name": "Rasam", "calories": 50, "protein": 2, "carbs": 8, "fat": 1, "fiber": 1, "sugar": 1, "sodium": 480, "region": "South India", "type": "soup"}
+{"name": "Gulab Jamun", "calories": 180, "protein": 2, "carbs": 24, "fat": 8, "fiber": 0, "sugar": 18, "sodium": 80, "region": "All India", "type": "dessert"}
+{"name": "Kheer - Rice Pudding", "calories": 240, "protein": 6, "carbs": 32, "fat": 10, "fiber": 0, "sugar": 22, "sodium": 120, "region": "All India", "type": "dessert"}
+{"name": "Jalebi", "calories": 180, "protein": 0, "carbs": 45, "fat": 0, "fiber": 0, "sugar": 40, "sodium": 40, "region": "All India", "type": "dessert"}
+{"name": "Chole Bhature", "calories": 320, "protein": 13, "carbs": 44, "Fat": 10, "fiber": 6, "sugar": 2, "sodium": 520, "region": "North India", "type": "legumes"}
+{"name": "Vindaloo - Chicken", "calories": 280, "protein": 32, "carbs": 6, "fat": 14, "fiber": 1, "sugar": 1, "sodium": 680, "region": "Goa", "type": "curry"}
+{"name": "Korma - Chicken", "calories": 340, "protein": 26, "carbs": 12, "fat": 22, "fiber": 0, "sugar": 3, "sodium": 540, "region": "Mughlai", "type": "curry"}
+{"name": "Dopiaza - Lamb", "calories": 280, "protein": 28, "carbs": 10, "fat": 14, "fiber": 2, "sugar": 4, "sodium": 520, "region": "North India", "type": "curry"}
+{"name": "Jalfrezi - Beef", "calories": 260, "protein": 30, "carbs": 8, "fat": 12, "fiber": 2, "sugar": 3, "sodium": 500, "region": "Bengal", "type": "curry"}
+{"name": "Saag Paneer", "calories": 200, "protein": 14, "carbs": 6, "fat": 14, "fiber": 2, "sugar": 1, "sodium": 420, "region": "North India", "type": "spinach"}
+{"name": "Palak Paneer", "calories": 210, "protein": 15, "carbs": 7, "fat": 15, "fiber": 2, "sugar": 1, "sodium": 440, "region": "North India", "type": "spinach"}
+{"name": "Chole Puri", "calories": 240, "protein": 9, "carbs": 32, "fat": 8, "fiber": 5, "sugar": 1, "sodium": 480, "region": "North India", "type": "bread"}
+{"name": "Bhindi Fry", "calories": 100, "protein": 3, "carbs": 12, "fat": 5, "fiber": 2, "sugar": 2, "sodium": 320, "region": "North India", "type": "vegetables"}
+{"name": "Baingan Bharta", "calories": 110, "protein": 3, "carbs": 14, "fat": 5, "fiber": 3, "sugar": 2, "sodium": 340, "region": "North India", "type": "vegetables"}
+{"name": "Lassi - Sweet", "calories": 150, "protein": 4, "carbs": 24, "fat": 3, "fiber": 0, "sugar": 20, "sodium": 100, "region": "All India", "type": "beverage"}
+{"name": "Chai - Tea", "calories": 30, "protein": 1, "carbs": 4, "fat": 1, "fiber": 0, "sugar": 2, "sodium": 20, "region": "All India", "type": "beverage"}
+{"name": "Masala Dosa", "calories": 280, "protein": 7, "carbs": 48, "fat": 8, "fiber": 3, "sugar": 1, "sodium": 420, "region": "South India", "type": "breakfast"}
+{"name": "Uttapam", "calories": 180, "protein": 5, "carbs": 32, "fat": 4, "fiber": 2, "sugar": 1, "sodium": 360, "region": "South India", "type": "rice-pancake"}
+{"name": "Medu Vada", "calories": 140, "protein": 4, "carbs": 16, "fat": 6, "fiber": 2, "sugar": 0, "sodium": 280, "region": "South India", "type": "snack"}
+{"name": "Vada Pav", "calories": 200, "protein": 6, "carbs": 28, "fat": 8, "fiber": 2, "sugar": 1, "sodium": 420, "region": "Maharashtra", "type": "snack"}
+{"name": "Dhokla", "calories": 160, "protein": 5, "carbs": 24, "fat": 5, "fiber": 1, "sugar": 1, "sodium": 380, "region": "Gujarat", "type": "snack"}
+{"name": "Kachumber Salad", "calories": 40, "protein": 1, "carbs": 8, "fat": 0.5, "fiber": 2, "sugar": 4, "sodium": 180, "region": "All India", "type": "salad"}
+{"name": "Chikhalwali - Pickle", "calories": 30, "protein": 0, "carbs": 6, "fat": 0, "fiber": 1, "sugar": 2, "sodium": 620, "region": "All India", "type": "condiment"}
+{"name": "Papadum - Fried", "calories": 50, "protein": 2, "carbs": 6, "fat": 2, "fiber": 0, "sugar": 0, "sodium": 180, "region": "All India", "type": "snack"}
+{"name": "Naan - Plain", "calories": 200, "protein": 6, "carbs": 36, "fat": 4, "fiber": 1, "sugar": 1, "sodium": 480, "region": "North India", "type": "bread"}
+{"name": "Chapati - Roti", "calories": 70, "protein": 2, "carbs": 14, "fat": 0.5, "fiber": 2, "sugar": 0, "sodium": 140, "region": "All India", "type": "bread"}
+{"name": "Lachcha Paratha", "calories": 280, "protein": 7, "carbs": 34, "fat": 14, "fiber": 1, "sugar": 0, "sodium": 420, "region": "North India", "type": "bread"}
+{"name": "Puri - Fried Bread", "calories": 140, "protein": 3, "carbs": 16, "fat": 7, "fiber": 1, "sugar": 0, "sodium": 280, "region": "North India", "type": "bread"}
+{"name": "Bhakri - Millet Bread", "calories": 150, "protein": 4, "carbs": 28, "fat": 2, "fiber": 4, "sugar": 0, "sodium": 280, "region": "Maharashtra", "type": "bread"}
+{"name": "Matar Paneer", "calories": 200, "protein": 16, "carbs": 12, "fat": 12, "fiber": 2, "sugar": 2, "sodium": 420, "region": "North India", "type": "vegetables"}
+{"name": "Kadai Chicken", "calories": 280, "protein": 32, "carbs": 6, "fat": 14, "fiber": 1, "sugar": 1, "sodium": 540, "region": "North India", "type": "curry"}
+{"name": "Shahi Tukda", "calories": 220, "protein": 3, "carbs": 28, "fat": 11, "fiber": 0, "sugar": 22, "sodium": 140, "region": "Mughlai", "type": "dessert"}
+{"name": "Barfi - Milk Fudge", "calories": 220, "protein": 4, "carbs": 28, "fat": 11, "fiber": 0, "sugar": 24, "sodium": 100, "region": "All India", "type": "dessert"}
+{"name": "Laddoo - Sweet Ball", "calories": 180, "protein": 3, "carbs": 22, "fat": 9, "fiber": 1, "sugar": 18, "sodium": 60, "region": "All India", "type": "dessert"}
+{"name": "Halwa - Semolina", "calories": 280, "protein": 4, "carbs": 36, "fat": 14, "fiber": 1, "sugar": 24, "sodium": 120, "region": "All India", "type": "dessert"}
+{"name": "Payasam", "calories": 260, "protein": 5, "carbs": 34, "fat": 12, "fiber": 1, "sugar": 26, "sodium": 100, "region": "South India", "type": "dessert"}
+{"name": "Paya Soup", "calories": 180, "protein": 20, "carbs": 2, "fat": 10, "fiber": 0, "sugar": 0, "sodium": 540, "region": "North India", "type": "soup"}
+{"name": "Nihari - Slow Cooked Stew", "calories": 320, "protein": 28, "carbs": 8, "fat": 20, "fiber": 0, "sugar": 1, "sodium": 620, "region": "Mughlai", "type": "curry"}
+{"name": "Haleem - Meat Stew", "calories": 340, "protein": 24, "carbs": 28, "fat": 16, "fiber": 4, "sugar": 2, "sodium": 580, "region": "Hyderabad", "type": "stew"}
+{"name": "Kebab - Seekh", "calories": 220, "protein": 28, "carbs": 4, "fat": 11, "fiber": 0, "sugar": 0, "sodium": 480, "region": "Mughlai", "type": "meat"}
+{"name": "Kofta Curry", "calories": 280, "protein": 22, "carbs": 8, "fat": 18, "fiber": 0, "sugar": 2, "sodium": 520, "region": "Mughlai", "type": "meat"}
+{"name": "Galauti Kebab", "calories": 240, "protein": 24, "carbs": 6, "fat": 14, "fiber": 0, "sugar": 0, "sodium": 500, "region": "Mughlai", "type": "meat"}
+{"name": "Shami Kebab", "calories": 200, "protein": 16, "carbs": 12, "fat": 10, "fiber": 2, "sugar": 1, "sodium": 420, "region": "Mughlai", "type": "meat"}
+{"name": "Fish Curry - South", "calories": 200, "protein": 26, "carbs": 4, "fat": 10, "fiber": 1, "sugar": 1, "sodium": 480, "region": "South India", "type": "fish"}
+{"name": "Prawn Curry", "calories": 180, "protein": 24, "carbs": 3, "fat": 9, "fiber": 0, "sugar": 0, "sodium": 520, "region": "Coastal India", "type": "seafood"}
+{"name": "Crab Curry", "calories": 220, "protein": 28, "carbs": 4, "fat": 11, "fiber": 0, "sugar": 0, "sodium": 540, "region": "Coastal India", "type": "seafood"}
+{"name": "Butter Chicken", "calories": 320, "protein": 28, "carbs": 8, "fat": 22, "fiber": 0, "sugar": 3, "sodium": 560, "region": "North India", "type": "curry"}
+{"name": "Murgh Mussallam", "calories": 280, "protein": 34, "carbs": 4, "fat": 14, "fiber": 0, "sugar": 1, "sodium": 500, "region": "Mughlai", "type": "meat"}
+{"name": "Paya - Goat Feet", "calories": 160, "protein": 18, "carbs": 0, "fat": 9, "fiber": 0, "sugar": 0, "sodium": 480, "region": "North India", "type": "meat"}
+{"name": "Dum Pukht Biryani", "calories": 400, "protein": 24, "carbs": 48, "fat": 14, "fiber": 1, "sugar": 1, "sodium": 640, "region": "Hyderabad", "type": "rice"}
+{"name": "Hyderabadi Biryani", "calories": 420, "protein": 26, "carbs": 50, "fat": 16, "fiber": 1, "sugar": 1, "sodium": 680, "region": "Hyderabad", "type": "rice"}
+{"name": "Pulao - Rice", "calories": 280, "protein": 8, "carbs": 42, "fat": 8, "fiber": 1, "sugar": 1, "sodium": 420, "region": "North India", "type": "rice"}
+{"name": "Fried Rice - Vegetable", "calories": 220, "protein": 6, "carbs": 32, "fat": 8, "fiber": 2, "sugar": 2, "sodium": 480, "region": "All India", "type": "rice"}
+{"name": "Lemon Rice", "calories": 180, "protein": 4, "carbs": 36, "fat": 3, "fiber": 1, "sugar": 1, "sodium": 380, "region": "South India", "type": "rice"}
+{"name": "Tamarind Rice", "calories": 200, "protein": 4, "carbs": 38, "fat": 4, "fiber": 1, "sugar": 2, "sodium": 400, "region": "South India", "type": "rice"}
+{"name": "Coconut Rice", "calories": 240, "protein": 4, "carbs": 36, "fat": 10, "fiber": 1, "sugar": 1, "sodium": 360, "region": "South India", "type": "rice"}
+{"name": "Black Rice - Unpolished", "calories": 160, "protein": 5, "carbs": 34, "fat": 1, "fiber": 3, "sugar": 0, "sodium": 2, "region": "All India", "type": "rice"}
+{"name": "Basmati Rice", "calories": 206, "protein": 4.3, "carbs": 45, "fat": 0.3, "fiber": 0.4, "sugar": 0.1, "sodium": 2, "region": "All India", "type": "rice"}
+{"name": "Jasmine Rice", "calories": 206, "protein": 4, "carbs": 45, "fat": 0.3, "fiber": 0.4, "sugar": 0, "sodium": 0, "region": "All India", "type": "rice"}
+{"name": "Brown Rice", "calories": 215, "protein": 5, "carbs": 45, "fat": 1.8, "fiber": 3.5, "sugar": 0.1, "sodium": 0, "region": "All India", "type": "rice"}
+{"name": "Millets - Foxtail", "calories": 331, "protein": 12.3, "carbs": 72, "fat": 4.2, "fiber": 8, "sugar": 3, "sodium": 6, "region": "All India", "type": "grain"}
+{"name": "Jowar - Sorghum", "calories": 329, "protein": 11, "carbs": 67, "fat": 3.3, "fiber": 6.4, "sugar": 3, "sodium": 0, "region": "All India", "type": "grain"}
+{"name": "Ragi - Finger Millet", "calories": 328, "protein": 6.7, "carbs": 72, "fat": 1.3, "fiber": 3.6, "sugar": 0.3, "sodium": 4, "region": "South India", "type": "grain"}
+{"name": "Bajra - Pearl Millet", "calories": 378, "protein": 11.6, "carbs": 67, "fat": 5, "fiber": 1.3, "sugar": 5, "sodium": 8, "region": "All India", "type": "grain"}
+{"name": "Moong Dal - Green Lentil", "calories": 105, "protein": 7.2, "carbs": 19.2, "fat": 0.4, "fiber": 7.6, "sugar": 1.5, "sodium": 2, "region": "All India", "type": "legumes"}
+{"name": "Masoor Dal - Red Lentil", "calories": 116, "protein": 9, "carbs": 20, "fat": 0.4, "fiber": 8, "sugar": 1.6, "sodium": 4, "region": "All India", "type": "legumes"}
+{"name": "Chana Dal - Split Chickpea", "calories": 120, "protein": 9, "carbs": 22, "fat": 1.5, "fiber": 10, "sugar": 1, "sodium": 2, "region": "All India", "type": "legumes"}
+{"name": "Urad Dal - Black Gram", "calories": 95, "protein": 7.5, "carbs": 13, "fat": 0.4, "fiber": 6, "sugar": 0.3, "sodium": 0, "region": "All India", "type": "legumes"}
+{"name": "Toor Dal - Pigeon Pea", "calories": 120, "protein": 9, "carbs": 22, "fat": 1.5, "fiber": 9.6, "sugar": 1, "sodium": 2, "region": "All India", "type": "legumes"}
+{"name": "Black Chickpea - Kala Chana", "calories": 164, "protein": 19, "carbs": 27, "fat": 3, "fiber": 10, "sugar": 1, "sodium": 11, "region": "All India", "type": "legumes"}
+{"name": "White Chickpea - Kabuli Chana", "calories": 164, "protein": 19, "carbs": 27, "fat": 3, "fiber": 10, "sugar": 1, "sodium": 11, "region": "All India", "type": "legumes"}
+{"name": "Red Kidney Beans", "calories": 127, "protein": 9, "carbs": 23, "fat": 0.3, "fiber": 6.4, "sugar": 0.3, "sodium": 2, "region": "All India", "type": "legumes"}

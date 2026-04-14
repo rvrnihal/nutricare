@@ -1,0 +1,81 @@
+{
+  "allopathic_medicines": [
+    {"id": 1, "name": "Paracetamol", "generic": "Acetaminophen", "type": "Pain Reliever", "uses": "Fever, mild to moderate pain", "dosage": "500-1000mg every 4-6 hours", "side_effects": "Liver damage with overdose", "brand_names": ["Calpol", "Dolo", "Panadol", "Tylenol"], "availability": "OTC"},
+    {"id": 2, "name": "Ibuprofen", "generic": "Ibuprofen", "type": "NSAID", "uses": "Pain, fever, inflammation", "dosage": "200-400mg every 4-6 hours", "side_effects": "GI upset, kidney issues", "brand_names": ["Brufen", "Combiflam", "Esprin"], "availability": "OTC"},
+    {"id": 3, "name": "Aspirin", "generic": "Acetylsalicylic Acid", "type": "Pain Reliever", "uses": "Pain, fever, heart attack prevention", "dosage": "81-325mg daily", "side_effects": "Bleeding, GI upset", "brand_names": ["Bayer", "Disprin", "Ecosprin"], "availability": "OTC"},
+    {"id": 4, "name": "Amoxicillin", "generic": "Amoxicillin", "type": "Antibiotic", "uses": "Bacterial infections", "dosage": "250-500mg every 8 hours", "side_effects": "Rash, diarrhea", "brand_names": ["Amoxil", "Moxcil", "Actomox"], "availability": "Prescription"},
+    {"id": 5, "name": "Metformin", "generic": "Metformin HCl", "type": "Antidiabetic", "uses": "Type 2 diabetes", "dosage": "500-2550mg daily", "side_effects": "GI upset, B12 deficiency", "brand_names": ["Glucophage", "Diabepeg", "Diabeta"], "availability": "Prescription"},
+    {"id": 6, "name": "Lisinopril", "generic": "Lisinopril", "type": "ACE Inhibitor", "uses": "High blood pressure, heart failure", "dosage": "10-40mg daily", "side_effects": "Dry cough, dizziness", "brand_names": ["Prinivil", "Zestril", "Lisikind"], "availability": "Prescription"},
+    {"id": 7, "name": "Omeprazole", "generic": "Omeprazole", "type": "PPI", "uses": "GERD, peptic ulcer", "dosage": "20-40mg daily", "side_effects": "Headache, diarrhea", "brand_names": ["Nexium", "Omez", "Prilosec"], "availability": "Prescription/OTC"},
+    {"id": 8, "name": "Cetirizine", "generic": "Cetirizine HCl", "type": "Antihistamine", "uses": "Allergies, urticaria", "dosage": "10mg daily", "side_effects": "Drowsiness", "brand_names": ["Cetrizine", "Allergin", "Cetacin"], "availability": "OTC"},
+    {"id": 9, "name": "Salbutamol", "generic": "Albuterol", "type": "Bronchodilator", "uses": "Asthma, COPD", "dosage": "2-4mg every 6 hours", "side_effects": "Tremor, tachycardia", "brand_names": ["Ventolin", "Asthalin", "Foracort"], "availability": "Prescription"},
+    {"id": 10, "name": "Atorvastatin", "generic": "Atorvastatin", "type": "Statin", "uses": "High cholesterol", "dosage": "10-80mg daily", "side_effects": "Muscle pain", "brand_names": ["Lipitor", "Atorva", "Tonact"], "availability": "Prescription"}
+  ],
+  "ayurvedic_medicines": [
+    {"id": 101, "name": "Ashwagandha", "sanskrit": "Withania somnifera", "type": "Adaptogen", "uses": "Stress, immunity, sleep", "dosage": "300-600mg daily", "properties": "Vata-Pitta balancing", "form": "Powder/Tablet/Capsule"},
+    {"id": 102, "name": "Brahmi", "sanskrit": "Bacopa monniera", "type": "Brain Tonic", "uses": "Memory, concentration, anxiety", "dosage": "200-400mg daily", "properties": "Cooling, nerve tonic", "form": "Powder/Oil/Tablet"},
+    {"id": 103, "name": "Tulsi", "sanskrit": "Ocimum sanctum", "type": "Immunity Booster", "uses": "Cough, fever, immunity", "dosage": "2-4g fresh or dried", "properties": "Warming, antioxidant", "form": "Fresh/Dried/Tea/Oil"},
+    {"id": 104, "name": "Neem", "sanskrit": "Azadirachta indica", "type": "Detoxifier", "uses": "Skin conditions, blood purification", "dosage": "1-3g powder daily", "properties": "Cooling, antibacterial", "form": "Powder/Oil/Tablet"},
+    {"id": 105, "name": "Triphala", "sanskrit": "Terminalia-Emblica-Phyllanthus", "type": "Detoxifier", "uses": "Digestion, constipation, immunity", "dosage": "3-6g daily", "properties": "Tridosha balancing", "form": "Powder/Tablet/Tea"},
+    {"id": 106, "name": "Curcumin", "sanskrit": "Curcuma longa", "type": "Anti-inflammatory", "uses": "Inflammation, pain, immunity", "dosage": "500-1000mg daily", "properties": "Warming, anti-inflammatory", "form": "Powder/Capsule/Tea"},
+    {"id": 107, "name": "Shatavari", "sanskrit": "Asparagus racemosus", "type": "Female Tonic", "uses": "Reproductive health, lactation", "dosage": "1-3g daily", "properties": "Cooling, nourishing", "form": "Powder/Tablet"},
+    {"id": 108, "name": "Ginger", "sanskrit": "Zingiber officinale", "type": "Digestive Aid", "uses": "Digestion, nausea, inflammation", "dosage": "1-3g fresh or 250-500mg dry", "properties": "Warming, pungent", "form": "Fresh/Dried/Tea/Oil"},
+    {"id": 109, "name": "Giloy", "sanskrit": "Tinospora cordifolia", "type": "Immunity", "uses": "Fever, immune system, blood purification", "dosage": "1-3g powder daily", "properties": "Bitter, cooling", "form": "Powder/Juice/Tablet"},
+    {"id": 110, "name": "Amla", "sanskrit": "Emblica officinalis", "type": "Vitamin C", "uses": "Immunity, hair, digestion", "dosage": "1-3g powder or 100-200ml juice", "properties": "Sour, cooling", "form": "Powder/Juice/Oil/Tablet"}
+  ],
+  "herbal_remedies": [
+    {"id": 201, "name": "Ginseng", "origin": "East Asian", "type": "Energy Tonic", "uses": "Fatigue, immunity, stress", "dosage": "200-400mg daily", "benefits": "Energy, stamina", "form": "Root/Powder/Tea/Extract"},
+    {"id": 202, "name": "Echinacea", "origin": "North American", "type": "Immunity Booster", "uses": "Cold, flu, immunity", "dosage": "300-500mg daily", "benefits": "Immune support", "form": "Tea/Capsule/Extract"},
+    {"id": 203, "name": "Garlic", "origin": "Asian", "type": "Immunity/Cardiovascular", "uses": "Heart health, immunity, blood pressure", "dosage": "1-2 cloves fresh or 400-600mg daily", "benefits": "Cardiovascular, immune", "form": "Fresh/Powder/Capsule/Oil"},
+    {"id": 204, "name": "Honey", "origin": "All regions", "type": "Natural Sweetener/Medicine", "uses": "Cough, throat, energy", "dosage": "1-2 tbsp daily", "benefits": "Anti-microbial, soothing", "form": "Raw/Processed/Medicinal"},
+    {"id": 205, "name": "Lemon", "origin": "Citrus", "type": "Vitamin C/Digestive", "uses": "Digestion, immunity, detox", "dosage": "Juice of 1 lemon in water daily", "benefits": "Vitamin C, alkalizing", "form": "Fresh/Juice/Oil"},
+    {"id": 206, "name": "Fenugreek (Methi)", "origin": "Mediterranean/Asian", "type": "Metabolism", "uses": "Blood sugar, lactation, digestion", "dosage": "1-2g seeds daily", "benefits": "Blood sugar control", "form": "Seeds/Powder/Tea"},
+    {"id": 207, "name": "Mustard Oil", "origin": "Asian", "type": "Healing Oil", "uses": "Massage, skin, respiratory", "dosage": "1-2 tsp for massage or topical", "benefits": "Warming, circulation", "form": "Oil"},
+    {"id": 208, "name": "Basil", "origin": "Mediterranean/Asian", "type": "Digestive/Aromatic", "uses": "Digestion, cough, immunity", "dosage": "Fresh in food or tea", "benefits": "Aromatic, digestive", "form": "Fresh/Dried/Tea/Oil"},
+    {"id": 209, "name": "Mint", "origin": "Worldwide", "type": "Digestive/Cooling", "uses": "Digestion, breath, cooling", "dosage": "Fresh in tea or food", "benefits": "Cooling, digestive", "form": "Fresh/Dried/Tea/Oil"},
+    {"id": 210, "name": "Cinnamon", "origin": "Asian", "type": "Metabolism/Sweetener", "uses": "Blood sugar, metabolism, taste", "dosage": "0.5-1 tsp daily", "benefits": "Blood sugar control", "form": "Stick/Powder"}
+  ],
+  "otc_medicines": [
+    {"id": 301, "name": "Antacid", "type": "Gastrointestinal", "uses": "Heartburn, GERD, acidity", "dosage": "1-2 tablets", "side_effects": "Constipation", "brand_names": ["Digene", "Eno", "Gelusil"], "availability": "OTC"},
+    {"id": 302, "name": "Cough Syrup", "type": "Respiratory", "uses": "Cough, throat irritation", "dosage": "1-2 tsp every 4-6 hours", "side_effects": "Drowsiness", "brand_names": ["Benadryl", "Cough Formula", "Ascoril"], "availability": "OTC"},
+    {"id": 303, "name": "Cough Lozenge", "type": "Respiratory", "uses": "Sore throat, cough", "dosage": "1 lozenge every 2 hours", "side_effects": "Minimal", "brand_names": ["Strepsils", "Halls", "Mentolyptus"], "availability": "OTC"},
+    {"id": 304, "name": "Throat Spray", "type": "Respiratory", "uses": "Sore throat, throat pain", "dosage": "2-3 sprays every 3 hours", "side_effects": "Local irritation", "brand_names": ["Iodex", "Betadine Spray"], "availability": "OTC"},
+    {"id": 305, "name": "Nasal Decongestant", "type": "Respiratory", "uses": "Nasal congestion", "dosage": "1 drop every 8 hours", "side_effects": "Rebound congestion", "brand_names": ["Afrin", "Rhinocort", "Otrivin"], "availability": "OTC"},
+    {"id": 306, "name": "Eye Drops", "type": "Ophthalmic", "uses": "Dry eyes, eye irritation", "dosage": "1-2 drops every 4-6 hours", "side_effects": "Temporary stinging", "brand_names": ["Refresh", "Systane", "Blink"], "availability": "OTC"},
+    {"id": 307, "name": "Antifungal Cream", "type": "Dermatological", "uses": "Fungal infections, ringworm", "dosage": "Apply to affected area 2-3 times daily", "side_effects": "Local irritation", "brand_names": ["Lotrimin", "Candid", "Clotrimazole"], "availability": "OTC"},
+    {"id": 308, "name": "Antibiotic Ointment", "type": "Dermatological", "uses": "Minor cuts, wounds", "dosage": "Apply small amount 2-3 times daily", "side_effects": "Allergic reactions rare", "brand_names": ["Neosporin", "Savlon", "Dr. Reddy's"], "availability": "OTC"},
+    {"id": 309, "name": "Hydrocortisone Cream", "type": "Dermatological", "uses": "Eczema, dermatitis, itching", "dosage": "Apply to skin 2-3 times daily", "side_effects": "Skin atrophy with chronic use", "brand_names": ["Hydrocortisone", "Cortisone"], "availability": "OTC"},
+    {"id": 310, "name": "Sunscreen", "type": "Protective", "uses": "Sun protection, skin cancer prevention", "dosage": "Apply generously every 2 hours", "side_effects": "Minimal", "brand_names": ["Sunscreen SPF 30/50", "Bayer Sunscreen"], "availability": "OTC"}
+  ],
+  "indian_household_medicines": [
+    {"id": 401, "name": "Haldi (Turmeric)", "type": "Spice/Medicine", "uses": "Inflammation, wounds, skin", "dosage": "0.5-1 tsp with milk or food", "preparation": "Fresh root powder or turmeric water", "benefits": "Anti-inflammatory, antiseptic"},
+    {"id": 402, "name": "Ajwain (Carom Seeds)", "type": "Spice/Medicine", "uses": "Digestion, cough, stomach pain", "dosage": "0.5-1 tsp", "preparation": "Boil in water for tea", "benefits": "Carminative, expectorant"},
+    {"id": 403, "name": "Kaali Mirch (Black Pepper)", "type": "Spice/Medicine", "uses": "Digestion, cough, circulation", "dosage": "2-5 grains crushed", "preparation": "With honey or in food", "benefits": "Stimulant, pungent"},
+    {"id": 404, "name": "Shunti (Dry Ginger)", "type": "Spice/Medicine", "uses": "Digestion, cough, inflation", "dosage": "0.5-1g powder", "preparation": "Tea or with honey", "benefits": "Warming, anti-inflammatory"},
+    {"id": 405, "name": "Hing (Asafetida)", "type": "Spice/Medicine", "uses": "Gas, bloating, colic", "dosage": "A pinch (100-200mg)", "preparation": "With water or in food", "benefits": "Carminative, antispasmodic"},
+    {"id": 406, "name": "Pudina (Mint)", "type": "Herb/Medicine", "uses": "Digestion, headache, cooling", "dosage": "2-3 leaves fresh", "preparation": "Tea or fresh", "benefits": "Cooling, digestive"},
+    {"id": 407, "name": "Jeera (Cumin)", "type": "Spice/Medicine", "uses": "Digestion, gas, flavor", "dosage": "0.5-1 tsp seeds", "preparation": "Roasted or tea", "benefits": "Digestive, carminative"},
+    {"id": 408, "name": "Saunf (Fennel)", "type": "Spice/Medicine", "uses": "Digestion, breath freshening, lactation", "dosage": "0.5-1 tsp seeds", "preparation": "Tea or freshly eaten", "benefits": "Digestive, aromatic"},
+    {"id": 409, "name": "Dahi (Yogurt)", "type": "Probiotic/Food", "uses": "Digestion, lactobacillus, calcium", "dosage": "100-200ml daily", "preparation": "Plain or with food", "benefits": "Probiotic, cooling, nutritive"},
+    {"id": 410, "name": "Kadha (Herbal Decoction)", "type": "Traditional Remedy", "uses": "Immunity, cough, cold, fever", "dosage": "1 cup once or twice daily", "preparation": "Boil herbs with water", "benefits": "Warming, immune-boosting"}
+  ],
+  "common_OTC_combinations": [
+    {"id": 501, "name": "Paracetamol + Ibuprofen", "type": "Pain Relief Combination", "uses": "Moderate to severe pain, fever", "dosage": "Alternate every 4 hours", "benefits": "Enhanced pain relief", "brand_names": ["Combidol", "Combiflam", "Ibugesic Plus"]},
+    {"id": 502, "name": "Cetirizine + Paracetamol", "type": "Cold Relief", "uses": "Cold, allergies, fever, headache", "dosage": "1-2 tablets twice daily", "benefits": "Complete cold relief", "brand_names": ["Cetirizine-Paracetamol", "Anagin", "Sinarest"]},
+    {"id": 503, "name": "Cetirizine + Phenylephrine", "type": "Decongestant Combination", "uses": "Nasal congestion, allergies", "dosage": "1 tablet twice daily", "benefits": "Decongestant + antihistamine", "brand_names": ["Allegra D", "Asizine C"]},
+    {"id": 504, "name": "Omeprazole + Domperidone", "type": "Gastric Relief", "uses": "GERD, acidity, bloating", "dosage": "1 capsule before meals", "benefits": "Complete gastric relief", "brand_names": ["Pantodac D", "Omez-D", "Pantoprazole-D"]},
+    {"id": 505, "name": "Multivitamin Tablet", "type": "Nutritional Supplement", "uses": "Vitamin deficiency, general health", "dosage": "1 tablet daily", "benefits": "General health, immunity", "brand_names": ["Becosules", "Complan", "Boost"]}
+  ],
+  "prescription_medications": [
+    {"id": 601, "name": "Antibiotics - Cephalosporins", "type": "Antibiotic Class", "uses": "Bacterial infections", "dosage": "Varies by drug", "examples": ["Cephalexin", "Ceftriaxone", "Cefixime"], "side_effects": "Rash, diarrhea"},
+    {"id": 602, "name": "Antihypertensives - ACE Inhibitors", "type": "Blood Pressure Control", "uses": "Hypertension, heart failure", "dosage": "Varies", "examples": ["Lisinopril", "Enalapril", "Ramipril"], "side_effects": "Dry cough, dizziness"},
+    {"id": 603, "name": "Antidiabetics - Sulfonylureas", "type": "Diabetes Control", "uses": "Type 2 diabetes", "dosage": "Varies", "examples": ["Glibenclamide", "Glipizide", "Gliclazide"], "side_effects": "Hypoglycemia"},
+    {"id": 604, "name": "Anticoagulants - Warfarin", "type": "Blood Thinner", "uses": "Blood clots, atrial fibrillation", "dosage": "Individualized", "examples": ["Warfarin"], "side_effects": "Bleeding"},
+    {"id": 605, "name": "Antiarrhythmics", "type": "Heart Rhythm Control", "uses": "Cardiac arrhythmias", "dosage": "Individualized", "examples": ["Amiodarone", "Propafenone"], "side_effects": "Multiple"},
+    {"id": 606, "name": "Immunosuppressants", "type": "Immune System", "uses": "Organ transplant, autoimmune", "dosage": "Individualized", "examples": ["Cyclosporine", "Tacrolimus"], "side_effects": "Infection risk"},
+    {"id": 607, "name": "Statins - Cholesterol", "type": "Lipid Lowering", "uses": "High cholesterol", "dosage": "10-80mg daily", "examples": ["Atorvastatin", "Simvastatin"], "side_effects": "Muscle pain"},
+    {"id": 608, "name": "Antihistamines - Second Generation", "type": "Allergy", "uses": "Allergies, urticaria", "dosage": "Varies", "examples": ["Cetirizine", "Fexofenadine"], "side_effects": "Minimal"},
+    {"id": 609, "name": "Proton Pump Inhibitors", "type": "Gastric", "uses": "GERD, peptic ulcer", "dosage": "20-40mg daily", "examples": ["Omeprazole", "Pantoprazole"], "side_effects": "Headache, diarrhea"},
+    {"id": 610, "name": "Antidepressants - SSRIs", "type": "Mental Health", "uses": "Depression, anxiety", "dosage": "20-40mg daily", "examples": ["Sertraline", "Fluoxetine"], "side_effects": "Sexual dysfunction"}
+  ]
+}
